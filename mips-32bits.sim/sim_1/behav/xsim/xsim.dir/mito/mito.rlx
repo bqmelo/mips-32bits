@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/bruna/mips-32bits/mips-32bits.srcs/sim_1/new/test_bench.vhd,1693669642,vhdl,,,,test_bench,,,,,,,,
+/home/bruna/mips-32bits/mips-32bits.srcs/sources_1/new/control_unit.vhd,1693668097,vhdl,,,,control_unit,,,,,,,,
+/home/bruna/mips-32bits/mips-32bits.srcs/sources_1/new/data_path.vhd,1693668455,vhdl,,,,data_path,,,,,,,,
+/home/bruna/mips-32bits/mips-32bits.srcs/sources_1/new/memory.vhd,1693667988,vhdl,,,,memory,,,,,,,,
+/home/bruna/mips-32bits/mips-32bits.srcs/sources_1/new/miTo.vhd,1693667871,vhdl,,,,mito,,,,,,,,
+/home/bruna/mips-32bits/mips-32bits.srcs/sources_1/new/mito_pkg.vhd,1693667952,vhdl,/home/bruna/mips-32bits/mips-32bits.srcs/sim_1/new/test_bench.vhd,,,mito_pkg,,,,,,,,
